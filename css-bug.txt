@@ -10,3 +10,5 @@ safari的webkit内核特性
     -webkit-overflow-scrolling:touch;overflow:auto;
 
 
+2、
+
