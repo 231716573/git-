@@ -1,7 +1,7 @@
 # play800
 play800--OA的BUG
 
-##重点参考的git教程：
+## 重点参考的git教程：
 ```javascript
 http://blog.csdn.net/free_wind22/article/details/50967723
 ``` 
