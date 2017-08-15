@@ -1,0 +1,12 @@
+﻿1、[css]解决iframe在ios设备上无法滚动
+
+原因：
+
+safari的webkit内核特性哈哈哈
+
+解决方案：
+
+	1、在iframe外包裹一层div并设置其css属性为：
+    -webkit-overflow-scrolling:touch;overflow:auto;
+
+
