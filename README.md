@@ -1,4 +1,4 @@
-#git教程
+# git教程
 
 ## 重点参考的git教程：
 ```javascript
