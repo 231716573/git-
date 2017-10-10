@@ -33,7 +33,7 @@ git diff 文件 (如：git diff readme.txt)
 
 #### 4、告诉Git，把文件提交到仓库
 ```javascript
-git commit -u '丢雷老鼠--->提交注释'  
+git commit -m '丢雷老鼠--->提交注释'  
 ```           
 
 #### 5、配置好公钥，放在github的SSH Key上面的是公钥
@@ -58,7 +58,7 @@ git add .
 ```
 
 ```javascript
-git commit -u '此处自己编写注释'  
+git commit -m '此处自己编写注释'  
 ```
 
 ```javascript
@@ -90,3 +90,9 @@ $ git remote add origin https://github.com/231716573/play800.git
 fatal: remote origin already exists.
 ```
 代表此处可以省略，直接git push origin master即可。
+
+
+#### 4、pathspec '' did not match any file(s) know to git.
+```
+使用：git commit -m '注释'，不要使用：git commit -u '注释'
+``
