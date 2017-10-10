@@ -62,7 +62,7 @@ git commit -m '此处自己编写注释'
 ```
 
 ```javascript
-git push origin master
+git push -u origin master
 ```
 
 
