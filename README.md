@@ -3,7 +3,7 @@
 ## 重点参考的git教程：
 ```javascript
 http://blog.csdn.net/free_wind22/article/details/50967723
-``` 
+```
 
 ## git 简单教程：
 
@@ -20,7 +20,7 @@ git add .
 #### 3、检查状态
 ```javascript
 git status      
-``` 
+```
 
 
 如果修改内容：
@@ -95,3 +95,6 @@ fatal: remote origin already exists.
 ```
 使用：git commit -m '注释'，不要使用：git commit -u '注释'
 ```
+
+#### 5、git clone https://github.com/231716573/....
+ 把远程代码copy下来
