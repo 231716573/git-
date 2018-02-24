@@ -98,3 +98,11 @@ fatal: remote origin already exists.
 
 #### 5、git clone https://github.com/231716573/....
  把远程代码copy下来
+
+#### 6、覆盖项目
+```
+git fetch --all  
+git reset --hard origin/master 
+
+git pull
+```
