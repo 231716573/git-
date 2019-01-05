@@ -105,4 +105,8 @@ git fetch --all
 git reset --hard origin/master 
 
 git pull
+
+
+1、git fetch
+2、git rebase origin/master
 ```
